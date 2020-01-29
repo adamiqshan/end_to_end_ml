@@ -1,2 +1,4 @@
-first line
-writing second line
+first line\n
+writing second line\n
+
+add two new line chars
