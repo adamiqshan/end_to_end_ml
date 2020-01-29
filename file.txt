@@ -1,2 +1,2 @@
 first line
-writing second line
+writing second line\n
